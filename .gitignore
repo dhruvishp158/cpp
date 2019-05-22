@@ -15,3 +15,6 @@
 *.user
 Dental_clinic/Dental_clinic/pch.cpp
 Dental_clinic/Dental_clinic/pch.h
+Student_evaluation/Debug/Student_evaluation.exe
+Student_evaluation/pch.cpp
+Student_evaluation/pch.h
