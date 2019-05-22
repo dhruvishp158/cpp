@@ -1,0 +1,17 @@
+
+*.suo
+*.db
+*.ipch
+*.ilk
+*.pdb
+*.sln
+*.log
+*.tlog
+*.vcxproj
+*.obj
+*.pch
+*.idb
+*.filters
+*.user
+Dental_clinic/Dental_clinic/pch.cpp
+Dental_clinic/Dental_clinic/pch.h
