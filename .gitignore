@@ -1,4 +1,5 @@
 
+
 *.suo
 *.db
 *.ipch
@@ -18,3 +19,6 @@ Dental_clinic/Dental_clinic/pch.h
 Student_evaluation/Debug/Student_evaluation.exe
 Student_evaluation/pch.cpp
 Student_evaluation/pch.h
+addition/Debug/addition.exe
+addition/pch.cpp
+addition/pch.h
